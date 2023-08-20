@@ -1,3 +1,4 @@
+<img width="858" align="center" src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif%22%3E
 <h1 align="center">Hi 👋, I'm Bijit Sen</h1>
 <h3 align="center">An aspiring engineer,passionate on Data Analytics and Machine Learning</h3>
 
